@@ -1,0 +1,16 @@
+{
+	"type": "content",
+	"modid": "recycling",
+	"name": "Recycling",
+	"version": "1.0.0",
+	
+	"description": "Adds the ability to unmake a variety of blocks.",
+	"website": "",
+	"author": "Tolomea",
+	
+	"side": "server",
+	"dependencies": {
+		"game": "1.20.0-rc.6",
+		"survival": "1.20.0-rc.6"
+	}
+}

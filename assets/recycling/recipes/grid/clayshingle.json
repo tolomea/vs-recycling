@@ -1,0 +1,142 @@
+[
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofing-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingridge-*clay-ns-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingtip-*clay-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingcornerinner-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingcornerouter-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+
+
+
+	{
+		ingredientPattern: "S",
+		ingredients: {
+			"S": { type: "block", code: "game:clayshingleblock-*", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 2 }
+	},
+	{
+		ingredientPattern: "S",
+		ingredients: {
+			"S": { type: "block", code: "game:clayshinglelabs-*-down-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1  }
+	},
+	{
+		ingredientPattern: "S",
+		ingredients: {
+			"S": { type: "block", code: "game:clayshinglestairs-*-up-north-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+
+
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingbottom-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingtop-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofinghalfleft-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofinghalfright-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingridgeend-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingridgehalfleft-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "H",
+		ingredients: {
+			"H": { type: "block", code: "game:slantedroofingridgehalfright-*clay-east-free", quantity: 1, name: "type" }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:shingle-burned-{type}", quantity: 1 }
+	},
+]

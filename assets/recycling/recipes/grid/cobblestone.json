@@ -1,0 +1,58 @@
+[
+	{
+		ingredientPattern: "L",
+		ingredients: {
+			"L": { type: "block", code: "game:cobblestone-*", quantity: 1, name: "rock", allowedVariants: ["andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "bauxite", "kimberlite", "suevite", "whitemarble", "redmarble", "greenmarble"] }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:stone-{rock}", quantity: 4 }
+	},
+	{
+		ingredientPattern: "L",
+		ingredients: {
+			"L": { type: "block", code: "game:cobblestoneslab-*-down-free", quantity: 1, name: "rock", allowedVariants: ["andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "bauxite", "kimberlite", "suevite", "whitemarble", "redmarble", "greenmarble"] }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:stone-{rock}", quantity: 1 }
+	},
+	{
+		ingredientPattern: "L",
+		ingredients: {
+			"L": { type: "block", code: "game:cobblestonestairs-*-up-north-free", quantity: 1, name: "rock", allowedVariants: ["andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "bauxite", "kimberlite", "suevite", "whitemarble", "redmarble", "greenmarble"]}
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:stone-{rock}", quantity: 3 }
+	},
+
+	{
+		ingredientPattern: "L",
+		ingredients: {
+			"L": { type: "block", code: "game:drystone-*", quantity: 1, name: "rock", allowedVariants: ["andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "bauxite", "suevite"] },
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:stone-{rock}", quantity: 8 }
+	},
+	{
+		ingredientPattern: "L",
+		ingredients: {
+			"L": { type: "block", code: "game:drystonefence-*-ew-free", quantity: 1, name: "rock", allowedVariants: ["andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "bauxite", "kimberlite", "suevite", "whitemarble", "redmarble", "greenmarble"] }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:stone-{rock}", quantity: 5 }
+	},
+
+	{
+		ingredientPattern: "L",
+		ingredients: {
+			"L": { type: "block", code: "game:cobblestonefan-*-north", quantity: 1, name: "rock", allowedVariants: ["andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "bauxite", "kimberlite", "suevite", "whitemarble", "redmarble", "greenmarble"] }
+		},
+		width: 1,
+		height: 1,
+		output: { type: "item", code: "game:stone-{rock}", quantity: 3 }
+	},
+]
